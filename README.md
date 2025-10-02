@@ -1,2 +1,2 @@
-# IP-
+# IP
 Get your IP
