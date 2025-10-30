@@ -1,5 +1,3 @@
 # IP
-Get your local IP or external IP
 
-Usage:
-Launch IP.exe or IP.py
+It's the main branch, here's nothing, so download the lastest version from releases
